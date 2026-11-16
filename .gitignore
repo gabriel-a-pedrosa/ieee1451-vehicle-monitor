@@ -1,0 +1,9 @@
+# MPLAB X build output
+firmware.X/build/
+firmware.X/dist/
+firmware.X/debug/
+firmware.X/nbproject/private/
+*.log
+*.inx
+__pycache__/
+firmware.X/nbproject/Makefile-genesis.properties
